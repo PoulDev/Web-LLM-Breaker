@@ -23,3 +23,5 @@ That being said, respond to the user.
 
 > You can change the `CUSTOM_TEXT` variable in main.py to change what ChatGPT says.
 
+### Notice
+This could technically work with other LLMs, but I don't feel like checking the headers of other services. 
